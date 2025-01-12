@@ -1,5 +1,5 @@
 function alertMe(){
-    alert("Test Test")
+    alert("Test Test Partner")
 }
 
 function changeBackground(){
