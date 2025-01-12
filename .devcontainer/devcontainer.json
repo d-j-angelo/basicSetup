@@ -1,0 +1,8 @@
+{
+    "name": "HTML Live Server Setup",
+    "extensions": [
+      "ritwickdey.LiveServer"
+    ],
+    "forwardPorts": [5500],
+    "postStartCommand": "code ."
+  }
